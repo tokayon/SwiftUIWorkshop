@@ -12,6 +12,7 @@ struct Constants {
     
     static let examples: [Example] = [
         .init(title: "Action sheet", view: AnyView(ActionSheetExample())),
+        .init(title: "Action dynamic sheet", view: AnyView(ActionSheetDynamicExample())),
         .init(title: "Alert", view: AnyView(AlertExample()))
     ]
 }
