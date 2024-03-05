@@ -14,6 +14,8 @@ struct Constants {
         .init(title: "Action sheet", view: AnyView(ActionSheetExample())),
         .init(title: "Action dynamic sheet", view: AnyView(ActionSheetDynamicExample())),
         .init(title: "Alert", view: AnyView(AlertExample())),
-        .init(title: "Alert dynamic", view: AnyView(AlertDynamicExample()))
+        .init(title: "Alert dynamic", view: AnyView(AlertDynamicExample())),
+        .init(title: "Async image", view: AnyView(AsyncImageExample())),
+        .init(title: "Buttons", view: AnyView(ButtonsExample()))
     ]
 }

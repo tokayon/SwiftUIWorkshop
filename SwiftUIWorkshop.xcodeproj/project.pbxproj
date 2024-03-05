@@ -15,6 +15,8 @@
 		95847BDD2B959308005ED937 /* Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BDC2B959308005ED937 /* Example.swift */; };
 		95847BE12B95C4B8005ED937 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE02B95C4B8005ED937 /* Constants.swift */; };
 		95847BE32B95C5DE005ED937 /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE22B95C5DE005ED937 /* AlertExample.swift */; };
+		95847BE52B96FD7C005ED937 /* AsyncImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE42B96FD7C005ED937 /* AsyncImageExample.swift */; };
+		95847BE72B970459005ED937 /* ButtonsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE62B970459005ED937 /* ButtonsExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		95847BDC2B959308005ED937 /* Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example.swift; sourceTree = "<group>"; };
 		95847BE02B95C4B8005ED937 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		95847BE22B95C5DE005ED937 /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
+		95847BE42B96FD7C005ED937 /* AsyncImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageExample.swift; sourceTree = "<group>"; };
+		95847BE62B970459005ED937 /* ButtonsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 			children = (
 				95847BD62B958ED9005ED937 /* ActionSheetExample.swift */,
 				95847BE22B95C5DE005ED937 /* AlertExample.swift */,
+				95847BE42B96FD7C005ED937 /* AsyncImageExample.swift */,
+				95847BE62B970459005ED937 /* ButtonsExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -181,7 +187,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95847BE52B96FD7C005ED937 /* AsyncImageExample.swift in Sources */,
 				95847BE12B95C4B8005ED937 /* Constants.swift in Sources */,
+				95847BE72B970459005ED937 /* ButtonsExample.swift in Sources */,
 				95847BCB2B958CFB005ED937 /* ContentView.swift in Sources */,
 				95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */,
 				95847BE32B95C5DE005ED937 /* AlertExample.swift in Sources */,
