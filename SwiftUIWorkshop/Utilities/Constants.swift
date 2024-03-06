@@ -16,6 +16,7 @@ struct Constants {
         .init(title: "Alert", view: AnyView(AlertExample())),
         .init(title: "Alert dynamic", view: AnyView(AlertDynamicExample())),
         .init(title: "Async image", view: AnyView(AsyncImageExample())),
-        .init(title: "Buttons", view: AnyView(ButtonsExample()))
+        .init(title: "Buttons", view: AnyView(ButtonsExample())),
+        .init(title: "Colors", view: AnyView(ColorExample()))
     ]
 }

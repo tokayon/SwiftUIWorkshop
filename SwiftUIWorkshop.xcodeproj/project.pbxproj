@@ -17,6 +17,7 @@
 		95847BE32B95C5DE005ED937 /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE22B95C5DE005ED937 /* AlertExample.swift */; };
 		95847BE52B96FD7C005ED937 /* AsyncImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE42B96FD7C005ED937 /* AsyncImageExample.swift */; };
 		95847BE72B970459005ED937 /* ButtonsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE62B970459005ED937 /* ButtonsExample.swift */; };
+		95847BE92B986072005ED937 /* ColorExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE82B986072005ED937 /* ColorExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		95847BE22B95C5DE005ED937 /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
 		95847BE42B96FD7C005ED937 /* AsyncImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageExample.swift; sourceTree = "<group>"; };
 		95847BE62B970459005ED937 /* ButtonsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsExample.swift; sourceTree = "<group>"; };
+		95847BE82B986072005ED937 /* ColorExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				95847BE22B95C5DE005ED937 /* AlertExample.swift */,
 				95847BE42B96FD7C005ED937 /* AsyncImageExample.swift */,
 				95847BE62B970459005ED937 /* ButtonsExample.swift */,
+				95847BE82B986072005ED937 /* ColorExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				95847BE12B95C4B8005ED937 /* Constants.swift in Sources */,
 				95847BE72B970459005ED937 /* ButtonsExample.swift in Sources */,
 				95847BCB2B958CFB005ED937 /* ContentView.swift in Sources */,
+				95847BE92B986072005ED937 /* ColorExample.swift in Sources */,
 				95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */,
 				95847BE32B95C5DE005ED937 /* AlertExample.swift in Sources */,
 				95847BD72B958ED9005ED937 /* ActionSheetExample.swift in Sources */,
