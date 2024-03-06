@@ -19,6 +19,7 @@ struct Constants {
         .init(title: "Buttons", view: AnyView(ButtonsExample())),
         .init(title: "Colors", view: AnyView(ColorExample())),
         .init(title: "Color Picker", view: AnyView(ColorPickerExample())),
-        .init(title: "Divider", view: AnyView(DividerExample()))
+        .init(title: "Divider", view: AnyView(DividerExample())),
+        .init(title: "Container relative", view: AnyView(ContainerRelativeViewExample()))
     ]
 }

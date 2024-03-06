@@ -21,6 +21,7 @@
 		95847BEB2B986426005ED937 /* ColorPickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BEA2B986426005ED937 /* ColorPickerExample.swift */; };
 		95847BED2B98660B005ED937 /* DatePickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BEC2B98660B005ED937 /* DatePickerExample.swift */; };
 		95847BEF2B9866FD005ED937 /* DividerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BEE2B9866FD005ED937 /* DividerExample.swift */; };
+		95847BF12B986BC6005ED937 /* ContainerRelativeViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BF02B986BC6005ED937 /* ContainerRelativeViewExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		95847BEA2B986426005ED937 /* ColorPickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerExample.swift; sourceTree = "<group>"; };
 		95847BEC2B98660B005ED937 /* DatePickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerExample.swift; sourceTree = "<group>"; };
 		95847BEE2B9866FD005ED937 /* DividerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividerExample.swift; sourceTree = "<group>"; };
+		95847BF02B986BC6005ED937 /* ContainerRelativeViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerRelativeViewExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				95847BEA2B986426005ED937 /* ColorPickerExample.swift */,
 				95847BEC2B98660B005ED937 /* DatePickerExample.swift */,
 				95847BEE2B9866FD005ED937 /* DividerExample.swift */,
+				95847BF02B986BC6005ED937 /* ContainerRelativeViewExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				95847BED2B98660B005ED937 /* DatePickerExample.swift in Sources */,
 				95847BEF2B9866FD005ED937 /* DividerExample.swift in Sources */,
 				95847BDD2B959308005ED937 /* Example.swift in Sources */,
+				95847BF12B986BC6005ED937 /* ContainerRelativeViewExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
