@@ -38,5 +38,4 @@ struct DatePickerExample: View {
 
 #Preview {
     DatePickerExample()
-    
 }

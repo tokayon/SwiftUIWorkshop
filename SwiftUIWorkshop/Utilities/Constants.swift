@@ -18,6 +18,7 @@ struct Constants {
         .init(title: "Async image", view: AnyView(AsyncImageExample())),
         .init(title: "Buttons", view: AnyView(ButtonsExample())),
         .init(title: "Colors", view: AnyView(ColorExample())),
-        .init(title: "Color Picker", view: AnyView(ColorPickerExample()))
+        .init(title: "Color Picker", view: AnyView(ColorPickerExample())),
+        .init(title: "Divider", view: AnyView(DividerExample()))
     ]
 }

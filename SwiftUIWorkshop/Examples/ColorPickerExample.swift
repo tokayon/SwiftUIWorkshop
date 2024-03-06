@@ -20,5 +20,4 @@ struct ColorPickerExample: View {
 
 #Preview {
     ColorPickerExample()
-    
 }
