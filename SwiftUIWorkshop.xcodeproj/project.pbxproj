@@ -19,6 +19,7 @@
 		95847BE72B970459005ED937 /* ButtonsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE62B970459005ED937 /* ButtonsExample.swift */; };
 		95847BE92B986072005ED937 /* ColorExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BE82B986072005ED937 /* ColorExample.swift */; };
 		95847BEB2B986426005ED937 /* ColorPickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BEA2B986426005ED937 /* ColorPickerExample.swift */; };
+		95847BED2B98660B005ED937 /* DatePickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BEC2B98660B005ED937 /* DatePickerExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		95847BE62B970459005ED937 /* ButtonsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsExample.swift; sourceTree = "<group>"; };
 		95847BE82B986072005ED937 /* ColorExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExample.swift; sourceTree = "<group>"; };
 		95847BEA2B986426005ED937 /* ColorPickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerExample.swift; sourceTree = "<group>"; };
+		95847BEC2B98660B005ED937 /* DatePickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				95847BE62B970459005ED937 /* ButtonsExample.swift */,
 				95847BE82B986072005ED937 /* ColorExample.swift */,
 				95847BEA2B986426005ED937 /* ColorPickerExample.swift */,
+				95847BEC2B98660B005ED937 /* DatePickerExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */,
 				95847BE32B95C5DE005ED937 /* AlertExample.swift in Sources */,
 				95847BD72B958ED9005ED937 /* ActionSheetExample.swift in Sources */,
+				95847BED2B98660B005ED937 /* DatePickerExample.swift in Sources */,
 				95847BDD2B959308005ED937 /* Example.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
