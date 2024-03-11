@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		952FEA6D2B9ECE6400E8AFAF /* GradientExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA6C2B9ECE6400E8AFAF /* GradientExample.swift */; };
+		952FEA6F2B9ED18400E8AFAF /* GridViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */; };
 		95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BC82B958CFB005ED937 /* SwiftUIWorkshopApp.swift */; };
 		95847BCB2B958CFB005ED937 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BCA2B958CFB005ED937 /* ContentView.swift */; };
 		95847BCD2B958CFD005ED937 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95847BCC2B958CFD005ED937 /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		952FEA6C2B9ECE6400E8AFAF /* GradientExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientExample.swift; sourceTree = "<group>"; };
+		952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewExample.swift; sourceTree = "<group>"; };
 		95847BC52B958CFB005ED937 /* SwiftUIWorkshop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIWorkshop.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95847BC82B958CFB005ED937 /* SwiftUIWorkshopApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIWorkshopApp.swift; sourceTree = "<group>"; };
 		95847BCA2B958CFB005ED937 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				95847BF02B986BC6005ED937 /* ContainerRelativeViewExample.swift */,
 				95847BF22B99AD73005ED937 /* FormExample.swift */,
 				952FEA6C2B9ECE6400E8AFAF /* GradientExample.swift */,
+				952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				95847BD72B958ED9005ED937 /* ActionSheetExample.swift in Sources */,
 				95847BED2B98660B005ED937 /* DatePickerExample.swift in Sources */,
 				95847BEF2B9866FD005ED937 /* DividerExample.swift in Sources */,
+				952FEA6F2B9ED18400E8AFAF /* GridViewExample.swift in Sources */,
 				95847BDD2B959308005ED937 /* Example.swift in Sources */,
 				95847BF12B986BC6005ED937 /* ContainerRelativeViewExample.swift in Sources */,
 			);

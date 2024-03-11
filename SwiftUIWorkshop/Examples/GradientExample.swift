@@ -8,8 +8,6 @@
 import SwiftUI
 
 struct GradientExample: View {
-    @State var isToggle: Bool = false
-    
     let gradient1 = /*@START_MENU_TOKEN@*/Gradient(colors: [Color.red, Color.blue])/*@END_MENU_TOKEN@*/
     let gradient2 = Gradient(stops: [
         .init(color: .cyan, location: 0),
