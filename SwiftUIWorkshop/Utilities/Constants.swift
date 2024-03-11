@@ -23,6 +23,7 @@ struct Constants {
         .init(title: "Container relative", view: AnyView(ContainerRelativeViewExample())),
         .init(title: "Form", view: AnyView(FormExample())),
         .init(title: "Gradient", view: AnyView(GradientExample())),
-        .init(title: "Grid", view: AnyView(GridViewExample()))
+        .init(title: "Grid", view: AnyView(GridViewExample())),
+        .init(title: "Groups", view: AnyView(GroupExample()))
     ]
 }
