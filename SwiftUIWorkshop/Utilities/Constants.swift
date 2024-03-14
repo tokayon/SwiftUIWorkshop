@@ -24,6 +24,8 @@ struct Constants {
         .init(title: "Form", view: AnyView(FormExample())),
         .init(title: "Gradient", view: AnyView(GradientExample())),
         .init(title: "Grid", view: AnyView(GridViewExample())),
-        .init(title: "Groups", view: AnyView(GroupExample()))
+        .init(title: "Groups", view: AnyView(GroupExample())),
+        .init(title: "LazyStack", view: AnyView(LazyStackExample()))
+
     ]
 }
