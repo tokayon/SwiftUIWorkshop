@@ -25,7 +25,8 @@ struct Constants {
         .init(title: "Gradient", view: AnyView(GradientExample())),
         .init(title: "Grid", view: AnyView(GridViewExample())),
         .init(title: "Groups", view: AnyView(GroupExample())),
-        .init(title: "LazyStack", view: AnyView(LazyStackExample()))
+        .init(title: "LazyStack", view: AnyView(LazyStackExample())),
+        .init(title: "Link", view: AnyView(LinkExample()))
 
     ]
 }

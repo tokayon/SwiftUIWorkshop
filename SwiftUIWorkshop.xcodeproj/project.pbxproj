@@ -11,6 +11,7 @@
 		952FEA6F2B9ED18400E8AFAF /* GridViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */; };
 		952FEA712B9ED77100E8AFAF /* GroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA702B9ED77100E8AFAF /* GroupExample.swift */; };
 		952FEA732BA2D73600E8AFAF /* LazyStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA722BA2D73600E8AFAF /* LazyStackExample.swift */; };
+		952FEA752BA2DAB200E8AFAF /* LinkExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA742BA2DAB200E8AFAF /* LinkExample.swift */; };
 		95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BC82B958CFB005ED937 /* SwiftUIWorkshopApp.swift */; };
 		95847BCB2B958CFB005ED937 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BCA2B958CFB005ED937 /* ContentView.swift */; };
 		95847BCD2B958CFD005ED937 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95847BCC2B958CFD005ED937 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 		952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewExample.swift; sourceTree = "<group>"; };
 		952FEA702B9ED77100E8AFAF /* GroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupExample.swift; sourceTree = "<group>"; };
 		952FEA722BA2D73600E8AFAF /* LazyStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyStackExample.swift; sourceTree = "<group>"; };
+		952FEA742BA2DAB200E8AFAF /* LinkExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkExample.swift; sourceTree = "<group>"; };
 		95847BC52B958CFB005ED937 /* SwiftUIWorkshop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIWorkshop.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95847BC82B958CFB005ED937 /* SwiftUIWorkshopApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIWorkshopApp.swift; sourceTree = "<group>"; };
 		95847BCA2B958CFB005ED937 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 				952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */,
 				952FEA702B9ED77100E8AFAF /* GroupExample.swift */,
 				952FEA722BA2D73600E8AFAF /* LazyStackExample.swift */,
+				952FEA742BA2DAB200E8AFAF /* LinkExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 				95847BE72B970459005ED937 /* ButtonsExample.swift in Sources */,
 				95847BCB2B958CFB005ED937 /* ContentView.swift in Sources */,
 				95847BEB2B986426005ED937 /* ColorPickerExample.swift in Sources */,
+				952FEA752BA2DAB200E8AFAF /* LinkExample.swift in Sources */,
 				95847BE92B986072005ED937 /* ColorExample.swift in Sources */,
 				95847BF32B99AD73005ED937 /* FormExample.swift in Sources */,
 				95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */,
