@@ -32,6 +32,7 @@
 		95847BEF2B9866FD005ED937 /* DividerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BEE2B9866FD005ED937 /* DividerExample.swift */; };
 		95847BF12B986BC6005ED937 /* ContainerRelativeViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BF02B986BC6005ED937 /* ContainerRelativeViewExample.swift */; };
 		95847BF32B99AD73005ED937 /* FormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BF22B99AD73005ED937 /* FormExample.swift */; };
+		95EEA49E2BA97B38005D7B97 /* PIckerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95EEA49D2BA97B38005D7B97 /* PIckerExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		95847BEE2B9866FD005ED937 /* DividerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividerExample.swift; sourceTree = "<group>"; };
 		95847BF02B986BC6005ED937 /* ContainerRelativeViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerRelativeViewExample.swift; sourceTree = "<group>"; };
 		95847BF22B99AD73005ED937 /* FormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormExample.swift; sourceTree = "<group>"; };
+		95EEA49D2BA97B38005D7B97 /* PIckerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PIckerExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 				952FEA782BA5809A00E8AFAF /* MapExample.swift */,
 				956FA95C2BA6D1D800E26B20 /* NavigationStackExample.swift */,
 				956FA95E2BA6DA4B00E26B20 /* ImagePickerExample.swift */,
+				95EEA49D2BA97B38005D7B97 /* PIckerExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 				952FEA712B9ED77100E8AFAF /* GroupExample.swift in Sources */,
 				952FEA732BA2D73600E8AFAF /* LazyStackExample.swift in Sources */,
 				95847BD72B958ED9005ED937 /* ActionSheetExample.swift in Sources */,
+				95EEA49E2BA97B38005D7B97 /* PIckerExample.swift in Sources */,
 				952FEA792BA5809A00E8AFAF /* MapExample.swift in Sources */,
 				95847BED2B98660B005ED937 /* DatePickerExample.swift in Sources */,
 				956FA95D2BA6D1D800E26B20 /* NavigationStackExample.swift in Sources */,

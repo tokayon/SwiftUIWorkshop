@@ -30,6 +30,7 @@ struct Constants {
         .init(title: "List", view: AnyView(ListExample())),
         .init(title: "Map", view: AnyView(MapExample())),
         .init(title: "NavigationStack", view: AnyView(NavigationStackExample())),
-        .init(title: "Image picker", view: AnyView(ImagePickerExample()))
+        .init(title: "Image picker", view: AnyView(ImagePickerExample())),
+        .init(title: "Picker", view: AnyView(PIckerExample()))
     ]
 }
