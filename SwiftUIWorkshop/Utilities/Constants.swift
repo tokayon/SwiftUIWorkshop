@@ -33,7 +33,7 @@ struct Constants {
         .init(title: "Image picker", view: AnyView(ImagePickerExample())),
         .init(title: "Picker", view: AnyView(PIckerExample())),
         .init(title: "Progress View", view: AnyView(ProgressViewExample())),
-        .init(title: "Transform", view: AnyView(ProgressViewExample()))
-
+        .init(title: "Transform", view: AnyView(ProgressViewExample())),
+        .init(title: "ScrollView", view: AnyView(ScrollViewExample()))
     ]
 }
