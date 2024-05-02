@@ -42,9 +42,15 @@ struct AlertDynamicExample: View {
         } label: {
             Text("Show alert")
         }
-        .alert("Error", isPresented: $showAlert, presenting: alertMessage, actions: { alertMessage in
-            EmptyView()
-        }, message: { alertMessage in
+        .alert("Error", isPresented: $showAlert, actions: {
+            Button("No", role: .cancel) {
+                // no action
+            }
+                       
+           Button ("Yes", role: .destructive) {
+               //
+           }
+        }, message: {
             Text("\(alertMessage.title) & \(alertMessage.subtitle)")
         })
     }
