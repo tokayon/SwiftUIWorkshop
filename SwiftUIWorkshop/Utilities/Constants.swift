@@ -35,6 +35,8 @@ struct Constants {
         .init(title: "Progress View", view: AnyView(ProgressViewExample())),
         .init(title: "Transform", view: AnyView(ProgressViewExample())),
         .init(title: "ScrollView", view: AnyView(ScrollViewExample())),
-        .init(title: "MailView", view: AnyView(MailViewExample()))
+        .init(title: "MailView", view: AnyView(MailViewExample())),
+        .init(title: "DatePicker", view: AnyView(DatePickerExample())),
+        .init(title: "ScrollTarget", view: AnyView(ScrollTargetExample()))
     ]
 }
