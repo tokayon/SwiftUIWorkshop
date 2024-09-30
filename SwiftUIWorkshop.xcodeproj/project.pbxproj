@@ -34,7 +34,9 @@
 		95847BEF2B9866FD005ED937 /* DividerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BEE2B9866FD005ED937 /* DividerExample.swift */; };
 		95847BF12B986BC6005ED937 /* ContainerRelativeViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BF02B986BC6005ED937 /* ContainerRelativeViewExample.swift */; };
 		95847BF32B99AD73005ED937 /* FormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BF22B99AD73005ED937 /* FormExample.swift */; };
+		95BCAD032CAB1DFF000961BF /* ContainerViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BCAD022CAB1DFF000961BF /* ContainerViewExample.swift */; };
 		95C5ACCA2BE342D000488516 /* MailViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5ACC92BE342D000488516 /* MailViewExample.swift */; };
+		95C940152C7CD6040054AFBE /* InlineNavBarExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C940142C7CD6040054AFBE /* InlineNavBarExample.swift */; };
 		95D8B9842C616F67007230CB /* ScrollTargetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D8B9832C616F67007230CB /* ScrollTargetExample.swift */; };
 		95EEA49E2BA97B38005D7B97 /* PIckerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95EEA49D2BA97B38005D7B97 /* PIckerExample.swift */; };
 		95EEA4A22BAEC097005D7B97 /* ProgressViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95EEA4A12BAEC097005D7B97 /* ProgressViewExample.swift */; };
@@ -69,7 +71,9 @@
 		95847BEE2B9866FD005ED937 /* DividerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividerExample.swift; sourceTree = "<group>"; };
 		95847BF02B986BC6005ED937 /* ContainerRelativeViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerRelativeViewExample.swift; sourceTree = "<group>"; };
 		95847BF22B99AD73005ED937 /* FormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormExample.swift; sourceTree = "<group>"; };
+		95BCAD022CAB1DFF000961BF /* ContainerViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerViewExample.swift; sourceTree = "<group>"; };
 		95C5ACC92BE342D000488516 /* MailViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailViewExample.swift; sourceTree = "<group>"; };
+		95C940142C7CD6040054AFBE /* InlineNavBarExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InlineNavBarExample.swift; sourceTree = "<group>"; };
 		95D8B9832C616F67007230CB /* ScrollTargetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollTargetExample.swift; sourceTree = "<group>"; };
 		95EEA49D2BA97B38005D7B97 /* PIckerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PIckerExample.swift; sourceTree = "<group>"; };
 		95EEA4A12BAEC097005D7B97 /* ProgressViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewExample.swift; sourceTree = "<group>"; };
@@ -159,6 +163,8 @@
 				95EEA4A12BAEC097005D7B97 /* ProgressViewExample.swift */,
 				95C5ACC92BE342D000488516 /* MailViewExample.swift */,
 				95D8B9832C616F67007230CB /* ScrollTargetExample.swift */,
+				95C940142C7CD6040054AFBE /* InlineNavBarExample.swift */,
+				95BCAD022CAB1DFF000961BF /* ContainerViewExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -265,11 +271,13 @@
 				95847BE92B986072005ED937 /* ColorExample.swift in Sources */,
 				95847BF32B99AD73005ED937 /* FormExample.swift in Sources */,
 				95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */,
+				95C940152C7CD6040054AFBE /* InlineNavBarExample.swift in Sources */,
 				952FEA6D2B9ECE6400E8AFAF /* GradientExample.swift in Sources */,
 				95847BE32B95C5DE005ED937 /* AlertExample.swift in Sources */,
 				952FEA712B9ED77100E8AFAF /* GroupExample.swift in Sources */,
 				952FEA732BA2D73600E8AFAF /* LazyStackExample.swift in Sources */,
 				95847BD72B958ED9005ED937 /* ActionSheetExample.swift in Sources */,
+				95BCAD032CAB1DFF000961BF /* ContainerViewExample.swift in Sources */,
 				9583DC622BB6A89A00CFB164 /* ScrollViewExample.swift in Sources */,
 				95EEA49E2BA97B38005D7B97 /* PIckerExample.swift in Sources */,
 				952FEA792BA5809A00E8AFAF /* MapExample.swift in Sources */,

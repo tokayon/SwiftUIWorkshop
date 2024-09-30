@@ -10,9 +10,14 @@ import SwiftUI
 struct Example: View, Identifiable {
     let id = UUID()
     var title: String
-    var view: AnyView
+    var content: AnyView
+    
+    init<V: View>(title: String, content: V) {
+        self.title = title
+        self.content = AnyView(content)
+    }
     
     var body: some View {
-        view
+        content
     }
 }
