@@ -39,6 +39,7 @@ struct Constants {
         .init(title: "DatePicker", content: DatePickerExample()),
         .init(title: "ScrollTarget", content: ScrollTargetExample()),
         .init(title: "InlineNavBar", content: InlineNavBarExample()),
-        .init(title: "Container", content: ContainerViewExample())
+        .init(title: "Container", content: ContainerViewExample()),
+        .init(title: "Carousel", content: CarouselExample())
     ]
 }
