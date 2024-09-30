@@ -36,6 +36,7 @@
 		95847BF32B99AD73005ED937 /* FormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BF22B99AD73005ED937 /* FormExample.swift */; };
 		95BCAD032CAB1DFF000961BF /* ContainerViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BCAD022CAB1DFF000961BF /* ContainerViewExample.swift */; };
 		95BCAD052CAB2421000961BF /* CarouselExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BCAD042CAB2421000961BF /* CarouselExample.swift */; };
+		95BCAD092CAB251C000961BF /* MagazineExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BCAD082CAB251C000961BF /* MagazineExample.swift */; };
 		95C5ACCA2BE342D000488516 /* MailViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C5ACC92BE342D000488516 /* MailViewExample.swift */; };
 		95C940152C7CD6040054AFBE /* InlineNavBarExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C940142C7CD6040054AFBE /* InlineNavBarExample.swift */; };
 		95D8B9842C616F67007230CB /* ScrollTargetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D8B9832C616F67007230CB /* ScrollTargetExample.swift */; };
@@ -74,6 +75,7 @@
 		95847BF22B99AD73005ED937 /* FormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormExample.swift; sourceTree = "<group>"; };
 		95BCAD022CAB1DFF000961BF /* ContainerViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerViewExample.swift; sourceTree = "<group>"; };
 		95BCAD042CAB2421000961BF /* CarouselExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselExample.swift; sourceTree = "<group>"; };
+		95BCAD082CAB251C000961BF /* MagazineExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagazineExample.swift; sourceTree = "<group>"; };
 		95C5ACC92BE342D000488516 /* MailViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailViewExample.swift; sourceTree = "<group>"; };
 		95C940142C7CD6040054AFBE /* InlineNavBarExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InlineNavBarExample.swift; sourceTree = "<group>"; };
 		95D8B9832C616F67007230CB /* ScrollTargetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollTargetExample.swift; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 				95C940142C7CD6040054AFBE /* InlineNavBarExample.swift */,
 				95BCAD022CAB1DFF000961BF /* ContainerViewExample.swift */,
 				95BCAD042CAB2421000961BF /* CarouselExample.swift */,
+				95BCAD082CAB251C000961BF /* MagazineExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95BCAD092CAB251C000961BF /* MagazineExample.swift in Sources */,
 				95847BE52B96FD7C005ED937 /* AsyncImageExample.swift in Sources */,
 				9583DC602BB6A6D800CFB164 /* ProjectTransformExample.swift in Sources */,
 				95C5ACCA2BE342D000488516 /* MailViewExample.swift in Sources */,

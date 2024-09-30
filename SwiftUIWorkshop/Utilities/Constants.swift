@@ -40,6 +40,7 @@ struct Constants {
         .init(title: "ScrollTarget", content: ScrollTargetExample()),
         .init(title: "InlineNavBar", content: InlineNavBarExample()),
         .init(title: "Container", content: ContainerViewExample()),
-        .init(title: "Carousel", content: CarouselExample())
+        .init(title: "Carousel", content: CarouselExample()),
+        .init(title: "Magazine", content: MagazineExample())
     ]
 }
