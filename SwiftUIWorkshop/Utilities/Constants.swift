@@ -41,6 +41,7 @@ struct Constants {
         .init(title: "InlineNavBar", content: InlineNavBarExample()),
         .init(title: "Container", content: ContainerViewExample()),
         .init(title: "Carousel", content: CarouselExample()),
-        .init(title: "Magazine", content: MagazineExample())
+        .init(title: "Magazine", content: MagazineExample()),
+        .init(title: "Internet Monitor", content: InternetMonitorExample())
     ]
 }
