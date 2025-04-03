@@ -42,6 +42,7 @@ struct Constants {
         .init(title: "Container", content: ContainerViewExample()),
         .init(title: "Carousel", content: CarouselExample()),
         .init(title: "Magazine", content: MagazineExample()),
-        .init(title: "Internet Monitor", content: InternetMonitorExample())
+        .init(title: "Internet Monitor", content: InternetMonitorExample()),
+        .init(title: "Grid Example", content: GridExample())
     ]
 }
