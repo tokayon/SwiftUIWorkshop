@@ -38,6 +38,7 @@
 		95847BF32B99AD73005ED937 /* FormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BF22B99AD73005ED937 /* FormExample.swift */; };
 		95B726902DA24149000A7FEE /* ShaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95B7268F2DA24149000A7FEE /* ShaderExample.swift */; };
 		95B726942DA241B9000A7FEE /* Shaders.metal in Sources */ = {isa = PBXBuildFile; fileRef = 95B726932DA241B9000A7FEE /* Shaders.metal */; };
+		95B726962DA250F9000A7FEE /* TimelineExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95B726952DA250F9000A7FEE /* TimelineExample.swift */; };
 		95BCA9412D9F05F3001BA460 /* GridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BCA9402D9F05F3001BA460 /* GridExample.swift */; };
 		95BCAD032CAB1DFF000961BF /* ContainerViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BCAD022CAB1DFF000961BF /* ContainerViewExample.swift */; };
 		95BCAD052CAB2421000961BF /* CarouselExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BCAD042CAB2421000961BF /* CarouselExample.swift */; };
@@ -82,6 +83,7 @@
 		95847BF22B99AD73005ED937 /* FormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormExample.swift; sourceTree = "<group>"; };
 		95B7268F2DA24149000A7FEE /* ShaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShaderExample.swift; sourceTree = "<group>"; };
 		95B726932DA241B9000A7FEE /* Shaders.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = Shaders.metal; sourceTree = "<group>"; };
+		95B726952DA250F9000A7FEE /* TimelineExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelineExample.swift; sourceTree = "<group>"; };
 		95BCA9402D9F05F3001BA460 /* GridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridExample.swift; sourceTree = "<group>"; };
 		95BCAD022CAB1DFF000961BF /* ContainerViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerViewExample.swift; sourceTree = "<group>"; };
 		95BCAD042CAB2421000961BF /* CarouselExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselExample.swift; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 				954A24D42D96508400CA8CA5 /* InternetMonitorExample.swift */,
 				95BCA9402D9F05F3001BA460 /* GridExample.swift */,
 				95B7268F2DA24149000A7FEE /* ShaderExample.swift */,
+				95B726952DA250F9000A7FEE /* TimelineExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				952FEA772BA2DBC700E8AFAF /* ListExample.swift in Sources */,
 				95847BEB2B986426005ED937 /* ColorPickerExample.swift in Sources */,
 				952FEA752BA2DAB200E8AFAF /* LinkExample.swift in Sources */,
+				95B726962DA250F9000A7FEE /* TimelineExample.swift in Sources */,
 				95847BE92B986072005ED937 /* ColorExample.swift in Sources */,
 				95847BF32B99AD73005ED937 /* FormExample.swift in Sources */,
 				95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */,

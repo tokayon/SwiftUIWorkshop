@@ -44,6 +44,7 @@ struct Constants {
         .init(title: "Magazine", content: MagazineExample()),
         .init(title: "Internet Monitor", content: InternetMonitorExample()),
         .init(title: "Grid Example", content: GridExample()),
-        .init(title: "Shader Example", content: ShaderExample())
+        .init(title: "Shader Example", content: ShaderExample()),
+        .init(title: "Timeline Shader", content: TimelineExample()),
     ]
 }

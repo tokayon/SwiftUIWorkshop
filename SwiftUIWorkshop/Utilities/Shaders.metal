@@ -24,3 +24,8 @@ using namespace metal;
     float2 newColor = position / size;
     return half4(newColor.x, newColor.y, 1 - newColor.x, color.a);
 }
+
+[[ stitchable ]] float2 wave(float2 position, float time, float speed, float strength, float smoothing) {
+    position.y += sin(time * speed + position.y / smoothing) * strength;
+    return position;
+}
