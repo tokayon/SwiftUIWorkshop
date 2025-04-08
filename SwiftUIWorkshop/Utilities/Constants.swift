@@ -46,5 +46,6 @@ struct Constants {
         .init(title: "Grid Example", content: GridExample()),
         .init(title: "Shader Example", content: ShaderExample()),
         .init(title: "Timeline Shader", content: TimelineExample()),
+        .init(title: "Localized Error extension", content: LocalizedErrorExample())
     ]
 }
