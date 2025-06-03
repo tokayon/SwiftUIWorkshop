@@ -16,6 +16,7 @@
 		952FEA792BA5809A00E8AFAF /* MapExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA782BA5809A00E8AFAF /* MapExample.swift */; };
 		954A24D52D96508400CA8CA5 /* InternetMonitorExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954A24D42D96508400CA8CA5 /* InternetMonitorExample.swift */; };
 		954F17AD2CD4B6BB008C6A6F /* BezierExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954F17AC2CD4B6BB008C6A6F /* BezierExample.swift */; };
+		955B3E4F2DB3249C00A5C9B1 /* BlurBlobExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955B3E4E2DB3249C00A5C9B1 /* BlurBlobExample.swift */; };
 		956FA95D2BA6D1D800E26B20 /* NavigationStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956FA95C2BA6D1D800E26B20 /* NavigationStackExample.swift */; };
 		956FA95F2BA6DA4B00E26B20 /* ImagePickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956FA95E2BA6DA4B00E26B20 /* ImagePickerExample.swift */; };
 		9583DC602BB6A6D800CFB164 /* ProjectTransformExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9583DC5F2BB6A6D800CFB164 /* ProjectTransformExample.swift */; };
@@ -61,6 +62,7 @@
 		952FEA782BA5809A00E8AFAF /* MapExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapExample.swift; sourceTree = "<group>"; };
 		954A24D42D96508400CA8CA5 /* InternetMonitorExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InternetMonitorExample.swift; sourceTree = "<group>"; };
 		954F17AC2CD4B6BB008C6A6F /* BezierExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BezierExample.swift; sourceTree = "<group>"; };
+		955B3E4E2DB3249C00A5C9B1 /* BlurBlobExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurBlobExample.swift; sourceTree = "<group>"; };
 		956FA95C2BA6D1D800E26B20 /* NavigationStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackExample.swift; sourceTree = "<group>"; };
 		956FA95E2BA6DA4B00E26B20 /* ImagePickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerExample.swift; sourceTree = "<group>"; };
 		9583DC5F2BB6A6D800CFB164 /* ProjectTransformExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectTransformExample.swift; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 				95B7268F2DA24149000A7FEE /* ShaderExample.swift */,
 				95B726952DA250F9000A7FEE /* TimelineExample.swift */,
 				958A11FB2DA5B4CB003702A0 /* LocalizedErrorExample.swift */,
+				955B3E4E2DB3249C00A5C9B1 /* BlurBlobExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				95847BE72B970459005ED937 /* ButtonsExample.swift in Sources */,
 				95847BCB2B958CFB005ED937 /* ContentView.swift in Sources */,
 				952FEA772BA2DBC700E8AFAF /* ListExample.swift in Sources */,
+				955B3E4F2DB3249C00A5C9B1 /* BlurBlobExample.swift in Sources */,
 				95847BEB2B986426005ED937 /* ColorPickerExample.swift in Sources */,
 				952FEA752BA2DAB200E8AFAF /* LinkExample.swift in Sources */,
 				95B726962DA250F9000A7FEE /* TimelineExample.swift in Sources */,
