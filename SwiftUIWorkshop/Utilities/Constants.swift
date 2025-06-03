@@ -47,6 +47,7 @@ struct Constants {
         .init(title: "Shader Example", content: ShaderExample()),
         .init(title: "Timeline Shader", content: TimelineExample()),
         .init(title: "Localized Error extension", content: LocalizedErrorExample()),
-        .init(title: "Blur Blob Example", content: BlurBlobExample())
+        .init(title: "Blur Blob Example", content: BlurBlobExample()),
+        .init(title: "Container Example", content: ContainerExample()),
     ]
 }

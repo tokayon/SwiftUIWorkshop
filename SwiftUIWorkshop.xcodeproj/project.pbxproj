@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		952038F62DEF3CE300515EF3 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952038F52DEF3CE300515EF3 /* Extensions.swift */; };
+		952038F82DEF511200515EF3 /* ContainerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952038F72DEF511200515EF3 /* ContainerExample.swift */; };
 		952FEA6D2B9ECE6400E8AFAF /* GradientExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA6C2B9ECE6400E8AFAF /* GradientExample.swift */; };
 		952FEA6F2B9ED18400E8AFAF /* GridViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */; };
 		952FEA712B9ED77100E8AFAF /* GroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA702B9ED77100E8AFAF /* GroupExample.swift */; };
@@ -55,6 +56,7 @@
 
 /* Begin PBXFileReference section */
 		952038F52DEF3CE300515EF3 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		952038F72DEF511200515EF3 /* ContainerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerExample.swift; sourceTree = "<group>"; };
 		952FEA6C2B9ECE6400E8AFAF /* GradientExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientExample.swift; sourceTree = "<group>"; };
 		952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewExample.swift; sourceTree = "<group>"; };
 		952FEA702B9ED77100E8AFAF /* GroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupExample.swift; sourceTree = "<group>"; };
@@ -196,6 +198,7 @@
 				95B726952DA250F9000A7FEE /* TimelineExample.swift */,
 				958A11FB2DA5B4CB003702A0 /* LocalizedErrorExample.swift */,
 				955B3E4E2DB3249C00A5C9B1 /* BlurBlobExample.swift */,
+				952038F72DEF511200515EF3 /* ContainerExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -307,6 +310,7 @@
 				952FEA772BA2DBC700E8AFAF /* ListExample.swift in Sources */,
 				955B3E4F2DB3249C00A5C9B1 /* BlurBlobExample.swift in Sources */,
 				95847BEB2B986426005ED937 /* ColorPickerExample.swift in Sources */,
+				952038F82DEF511200515EF3 /* ContainerExample.swift in Sources */,
 				952FEA752BA2DAB200E8AFAF /* LinkExample.swift in Sources */,
 				95B726962DA250F9000A7FEE /* TimelineExample.swift in Sources */,
 				95847BE92B986072005ED937 /* ColorExample.swift in Sources */,
