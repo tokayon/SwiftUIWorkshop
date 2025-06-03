@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		952038F62DEF3CE300515EF3 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952038F52DEF3CE300515EF3 /* Extensions.swift */; };
 		952FEA6D2B9ECE6400E8AFAF /* GradientExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA6C2B9ECE6400E8AFAF /* GradientExample.swift */; };
 		952FEA6F2B9ED18400E8AFAF /* GridViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */; };
 		952FEA712B9ED77100E8AFAF /* GroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952FEA702B9ED77100E8AFAF /* GroupExample.swift */; };
@@ -53,6 +54,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		952038F52DEF3CE300515EF3 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		952FEA6C2B9ECE6400E8AFAF /* GradientExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientExample.swift; sourceTree = "<group>"; };
 		952FEA6E2B9ED18400E8AFAF /* GridViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewExample.swift; sourceTree = "<group>"; };
 		952FEA702B9ED77100E8AFAF /* GroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupExample.swift; sourceTree = "<group>"; };
@@ -203,6 +205,7 @@
 			children = (
 				95847BE02B95C4B8005ED937 /* Constants.swift */,
 				95B726932DA241B9000A7FEE /* Shaders.metal */,
+				952038F52DEF3CE300515EF3 /* Extensions.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 				95D8B9842C616F67007230CB /* ScrollTargetExample.swift in Sources */,
 				95EEA4A22BAEC097005D7B97 /* ProgressViewExample.swift in Sources */,
 				95847BE72B970459005ED937 /* ButtonsExample.swift in Sources */,
+				952038F62DEF3CE300515EF3 /* Extensions.swift in Sources */,
 				95847BCB2B958CFB005ED937 /* ContentView.swift in Sources */,
 				952FEA772BA2DBC700E8AFAF /* ListExample.swift in Sources */,
 				955B3E4F2DB3249C00A5C9B1 /* BlurBlobExample.swift in Sources */,
