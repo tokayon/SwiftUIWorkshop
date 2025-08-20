@@ -49,5 +49,6 @@ struct Constants {
         .init(title: "Localized Error extension", content: LocalizedErrorExample()),
         .init(title: "Blur Blob Example", content: BlurBlobExample()),
         .init(title: "Container Example", content: ContainerExample()),
+        .init(title: "Delayed ProgressView Example", content: DelayedProgressViewExample())
     ]
 }

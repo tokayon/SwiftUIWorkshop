@@ -21,6 +21,7 @@
 		955B3E4F2DB3249C00A5C9B1 /* BlurBlobExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955B3E4E2DB3249C00A5C9B1 /* BlurBlobExample.swift */; };
 		956FA95D2BA6D1D800E26B20 /* NavigationStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956FA95C2BA6D1D800E26B20 /* NavigationStackExample.swift */; };
 		956FA95F2BA6DA4B00E26B20 /* ImagePickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956FA95E2BA6DA4B00E26B20 /* ImagePickerExample.swift */; };
+		9572D1C52E56218F007FFEF0 /* DelayedProgressViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9572D1C42E56218F007FFEF0 /* DelayedProgressViewExample.swift */; };
 		9583DC602BB6A6D800CFB164 /* ProjectTransformExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9583DC5F2BB6A6D800CFB164 /* ProjectTransformExample.swift */; };
 		9583DC622BB6A89A00CFB164 /* ScrollViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9583DC612BB6A89A00CFB164 /* ScrollViewExample.swift */; };
 		95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95847BC82B958CFB005ED937 /* SwiftUIWorkshopApp.swift */; };
@@ -69,6 +70,7 @@
 		955B3E4E2DB3249C00A5C9B1 /* BlurBlobExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurBlobExample.swift; sourceTree = "<group>"; };
 		956FA95C2BA6D1D800E26B20 /* NavigationStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackExample.swift; sourceTree = "<group>"; };
 		956FA95E2BA6DA4B00E26B20 /* ImagePickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerExample.swift; sourceTree = "<group>"; };
+		9572D1C42E56218F007FFEF0 /* DelayedProgressViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelayedProgressViewExample.swift; sourceTree = "<group>"; };
 		9583DC5F2BB6A6D800CFB164 /* ProjectTransformExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectTransformExample.swift; sourceTree = "<group>"; };
 		9583DC612BB6A89A00CFB164 /* ScrollViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewExample.swift; sourceTree = "<group>"; };
 		95847BC52B958CFB005ED937 /* SwiftUIWorkshop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIWorkshop.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -199,6 +201,7 @@
 				958A11FB2DA5B4CB003702A0 /* LocalizedErrorExample.swift */,
 				955B3E4E2DB3249C00A5C9B1 /* BlurBlobExample.swift */,
 				952038F72DEF511200515EF3 /* ContainerExample.swift */,
+				9572D1C42E56218F007FFEF0 /* DelayedProgressViewExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 				95847BE92B986072005ED937 /* ColorExample.swift in Sources */,
 				95847BF32B99AD73005ED937 /* FormExample.swift in Sources */,
 				95847BC92B958CFB005ED937 /* SwiftUIWorkshopApp.swift in Sources */,
+				9572D1C52E56218F007FFEF0 /* DelayedProgressViewExample.swift in Sources */,
 				95C940152C7CD6040054AFBE /* InlineNavBarExample.swift in Sources */,
 				952FEA6D2B9ECE6400E8AFAF /* GradientExample.swift in Sources */,
 				95847BE32B95C5DE005ED937 /* AlertExample.swift in Sources */,
